@@ -2,6 +2,8 @@
 
 A simple desktop tool to encrypt and decrypt Caesar cipher in English and Russian using a dictionary-based approach, built with Electron
 
+To simply open project in your browser, open the index.html file from the web-version folder
+
 ![example1](res/github/encrypt.gif)
 ![example2](res/github/decrypt.gif)
 
